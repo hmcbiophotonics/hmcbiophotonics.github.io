@@ -36,7 +36,7 @@ include: ["_pages"]
 
 collections:
   people:
-    output: true
+    output: false
     permalink: /:collection/:path/
   projects:
     output: true
