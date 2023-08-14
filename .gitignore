@@ -19,3 +19,6 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# Custom ignores
+upload_to_web.sh
