@@ -22,8 +22,8 @@ title: HMC Biophotonics Lab
 email: jbrake@hmc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the HMC Biophotonics Lab.
-baseurl: "/biophotonics" # the subpath of your site, e.g. /blog
-url: "http://pages.hmc.edu/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hmcbiophotonics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
