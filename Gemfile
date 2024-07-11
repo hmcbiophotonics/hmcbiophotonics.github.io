@@ -34,3 +34,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Minimal mistakes theme
 gem "minimal-mistakes-jekyll"
+
+# Lock jekyll-sass-converter gem to 2.2 to avoid deprecation warnings
+gem 'jekyll-sass-converter', '~> 2.2'
