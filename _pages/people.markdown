@@ -8,7 +8,7 @@ classes: wide
 show_excerpts: true
 ---
 <div class="align-left">
-<img src="{{ site.baseurl }}/assets/images/people/brake_josh.png" alt="Josh Brake" width="200"/>
+<img src="{{ site.baseurl }}assets/images/people/brake_josh.png" alt="Josh Brake" width="200"/>
 </div>
 # [**Joshua Brake**](https://joshbrake.com)  
 Assistant Professor of [Engineering, Harvey Mudd College](https://hmc.edu/engineering)  
