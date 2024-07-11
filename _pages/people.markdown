@@ -31,3 +31,9 @@ Assistant Professor of [Engineering, Harvey Mudd College](https://hmc.edu/engine
   {% include people-list.html entries=site.people sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
 </div>
 </section>
+
+# Past Group Photos
+
+## Summer 2023
+
+![](/assets/images/2023_lab_photo.jpeg)
